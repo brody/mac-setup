@@ -33,6 +33,7 @@ brew install dropbox
 brew install fantastical
 brew install fig
 brew install figma
+brew install grammarly-desktop
 brew install hiddenbar
 brew install iconjar
 brew install imageoptim
