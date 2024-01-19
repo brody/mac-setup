@@ -36,6 +36,7 @@ brew install figma
 brew install grammarly-desktop
 brew install hiddenbar
 brew install iconjar
+brew install iina
 brew install imageoptim
 brew install iterm2
 brew install karabiner-elements
