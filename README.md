@@ -30,7 +30,6 @@ brew install calibre
 brew install cleanshot
 brew install dash
 brew install dropbox
-brew install fantastical
 brew install fig
 brew install figma
 brew install grammarly-desktop
@@ -68,6 +67,8 @@ mas install 1055511498
 mas install 1346247457
 # Everyday
 mas install 1394150432
+# Fantastical
+mas install 975937182
 # Infuse
 mas install 1136220934
 # Keka
