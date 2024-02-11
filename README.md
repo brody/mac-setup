@@ -11,7 +11,7 @@ The package manager is the default first thing I always install. Simply followin
 brew tap buo/cask-upgrade
 ```
 
-## Mac App Store
+## Setup Mac App Store
 
 If some previously purchased software from the Mac App Store needs to be included, we can use `mas` to ease the installs.
 
@@ -27,6 +27,7 @@ Once we have `homebrew`, `cask` (and `mas` if needed) we're ready to go - (and y
 brew install 1password
 brew install arc
 brew install calibre
+brew install cheatsheet
 brew install cleanshot
 brew install dash
 brew install dropbox
@@ -40,6 +41,7 @@ brew install imageoptim
 brew install iterm2
 brew install karabiner-elements
 brew install kindle
+brew install linear-linear
 brew install miro
 brew install notion
 brew install nuage
