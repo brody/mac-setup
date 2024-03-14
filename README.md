@@ -44,9 +44,9 @@ brew install kindle
 brew install linear-linear
 brew install miro
 brew install notion
-brew install nuage
 brew install pocket-casts
 brew install raycast
+brew install rectangle
 brew install rightfont
 brew install rocket
 brew install slack
