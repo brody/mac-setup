@@ -31,14 +31,12 @@ brew install cheatsheet
 brew install cleanshot
 brew install dash
 brew install dropbox
-brew install fig
 brew install figma
 brew install grammarly-desktop
 brew install hiddenbar
 brew install iconjar
 brew install iina
 brew install imageoptim
-brew install iterm2
 brew install karabiner-elements
 brew install kindle
 brew install linear-linear
@@ -53,6 +51,7 @@ brew install slack
 brew install spotify
 brew install todoist
 brew install visual-studio-code
+brew install warp
 brew install zoom
 ```
 
