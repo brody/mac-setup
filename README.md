@@ -49,7 +49,6 @@ brew install rightfont
 brew install rocket
 brew install slack
 brew install spotify
-brew install todoist
 brew install visual-studio-code
 brew install warp
 brew install zoom
@@ -84,6 +83,8 @@ mas install 905953485
 mas install 1564031042
 # Spark Classic
 mas install 1176895641
+# Things
+mas intall 904280696
 # WhatsApp
 mas install 310633997
 # World Clock Pro
