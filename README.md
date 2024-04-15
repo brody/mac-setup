@@ -84,7 +84,7 @@ mas install 1564031042
 # Spark Classic
 mas install 1176895641
 # Things
-mas intall 904280696
+mas install 904280696
 # WhatsApp
 mas install 310633997
 # World Clock Pro
